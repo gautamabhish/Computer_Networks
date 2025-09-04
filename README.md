@@ -1,1 +1,2 @@
-This is for CN 
+# Computer_Networks
+trying to learn computer networks 
